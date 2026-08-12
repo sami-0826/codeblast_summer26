@@ -8,4 +8,5 @@ int main(){
     else if(grade>=60 && grade<=69) printf("C");
     else if(grade>=50 && grade<=59) printf("D");
     else if(grade>=0 && grade<=49) printf("F");
+    
 }
